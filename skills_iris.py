@@ -1,1 +1,1 @@
-POLE_IRIS= {"web","IA","Mobile"}
+POLE_IRIS= ("Web","IA","Mobile")
